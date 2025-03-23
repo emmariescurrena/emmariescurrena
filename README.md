@@ -1,4 +1,4 @@
-# Hi, Emmanuel here
+# Hi, gretinoxx here
 
 - Focusing on backend development
 - Working with Spring as main framework
